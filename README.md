@@ -1,2 +1,1 @@
-# STA-AD_Code
-STA-AD_Code
+Code for Selective Test-Time Adaptation using Neural Implicit Representations: Application to Unsupervised Anomaly Detection
